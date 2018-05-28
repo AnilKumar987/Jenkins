@@ -1,0 +1,6 @@
+#--- Files to be ignore ---#
+
+target
+catalog
+mule-project.xml
+pom.xml
